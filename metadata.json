@@ -1,0 +1,8 @@
+{
+  "name": "Register SPM & Rekapitulasi Belanja",
+  "description": "Aplikasi Manajemen Register SPM, Kontrol Pekerjaan, Realisasi Belanja, dan Rekapitulasi Terintegrasi Google Spreadsheet",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
